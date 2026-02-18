@@ -2,7 +2,6 @@
 
 
 ## Matériels
-### Pour ce TP, les éléments suivants ont été utilisés :
 - Une guitare électrique
 - Une carte Arduino
 - Deux amplificateurs opérationnels LM741
